@@ -15,11 +15,11 @@
 Backend-focused engineer with a founder mindset.  
 I build resilient SaaS platforms, production-grade APIs, and scalable database architectures.
 
-- Multi-tenant SaaS architecture  
-- Dockerized production environments  
-- PostgreSQL performance optimization  
-- Secure API & backend systems  
-- Infrastructure reliability & scaling  
+• Multi-tenant SaaS architecture  
+• Dockerized production environments  
+• PostgreSQL performance optimization  
+• Secure API and backend systems  
+• Infrastructure reliability and scalability  
 
 ---
 
@@ -73,10 +73,10 @@ I build resilient SaaS platforms, production-grade APIs, and scalable database a
 
 Currently building infrastructure-level systems designed for:
 
-- Global scale  
-- High availability  
-- Secure architecture  
-- Long-term maintainability  
+• Global scale  
+• High availability  
+• Secure architecture  
+• Long-term maintainability  
 
 ---
 
